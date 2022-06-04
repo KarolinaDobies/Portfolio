@@ -1,6 +1,6 @@
 # PORTFOLIO
 ## ABOUT ME
-I am a novice manual tester who, after years of working in public relations, decided to use my innate curiosity, analytical and communication skills to improve IT projects ;) I am very motivated to become QA
+I am a novice manual tester who, after years of working in public relations, decided to use my innate curiosity, analytical and communication skills to improve IT projects. I am very motivated to become QA
 ## TOOLS
 * Jira
 * TestLink

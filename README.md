@@ -9,12 +9,11 @@ I am a novice manual tester who, after years of working in public relations, dec
 * Software testing
 * Creating test cases
 * Reporting bugs
-* SQL
 * SCRUM
 ## CERTIFICATES
-Szkolenie Indywidualne tester manualny 04.06.2022
+Individual training manual tester 04.06.2022
 ## COURSES
-* Szkolenie indywidualne tester manualny - Waldemar Szafraniec
+* Individual training manual tester - Waldemar Szafraniec
 ## RECOMENDED BLOGS
 * wyszkolewas.com.pl
 * testerzy.pl
